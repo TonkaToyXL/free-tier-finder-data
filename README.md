@@ -56,7 +56,7 @@ Verified free tiers, promos and startup credits for AI and developer tools. This
 | [Kilo Code](https://freetierfinder.com/tool/kilo-code) | Open-source agentic coding assistant and code completion; works with any AI model. | Not stated on pricing page | 2026-10-14 |
 | [Langflow](https://freetierfinder.com/tool/langflow) | Drag-and-drop agent and flow builder with Python under the hood; deploy flows as APIs. | Not stated on pricing page | 2026-10-14 |
 | [OpenHands](https://freetierfinder.com/tool/openhands) | Local open-source OpenHands agent (web GUI, terminal UI, CLI), plus free hosted cloud access with API, Jira and Slack integrations. | Not stated on pricing page | 2026-10-14 |
-| [Rival.io](https://freetierfinder.com/tool/rival-io) | A $0 Personal Workspace with unlimited DeepSeek 4 Flash (one concurrent connection) and a $1 one-time run balance. | No | 2026-10-14 |
+| [Rival.io](https://freetierfinder.com/tool/rival-io) | A $0 Personal Workspace with unlimited DeepSeek 4 Flash (one concurrent connection) and a $1 one-time run balance. | No (stated on pricing page) | 2026-10-14 |
 | [Roomote](https://freetierfinder.com/tool/roomote) | The same Roomote app as Cloud, self-hosted, all features, no license needed under 10 users. | Not stated on pricing page | 2026-10-14 |
 
 ### AI APIs
@@ -81,7 +81,7 @@ Verified free tiers, promos and startup credits for AI and developer tools. This
 | [AssemblyAI](https://freetierfinder.com/tool/assemblyai) | $50 in free credits on signup for speech-to-text and other APIs. | No (stated on pricing page) | 2026-10-14 |
 | [Cartesia](https://freetierfinder.com/tool/cartesia) | 20K credits a month for text to speech and speech to text (about 27 minutes of Sonic-3.6 audio), plus $1 a month of prepaid voice-agent usage. | Not stated on pricing page | 2026-10-14 |
 | [ElevenLabs](https://freetierfinder.com/tool/elevenlabs) | 10,000 credits a month for text to speech, speech to text, sound effects and more; 3 Studio projects. | Not stated on pricing page | 2026-10-14 |
-| [Onepin](https://freetierfinder.com/tool/onepin) | 1,000 one-time credits, about 15 minutes of validated audio. | No | 2026-10-14 |
+| [Onepin](https://freetierfinder.com/tool/onepin) | 1,000 one-time credits, about 15 minutes of validated audio. | No (stated on pricing page) | 2026-10-14 |
 | [Suno](https://freetierfinder.com/tool/suno) | 50 credits a day on free models, standard features, upload up to 8 minutes of audio. | Not stated on pricing page | 2026-10-14 |
 
 ### AI Chat

@@ -24,3 +24,9 @@ Entry-level changes recorded at each recheck. Newest first.
 - exa: Oct 14, 2026: Added. $10 in free search API credits every month, no payment method required.
 - cartesia: Oct 14, 2026: Added. 20K free text-to-speech and speech-to-text credits a month.
 - firecrawl: Affiliate link added Oct 14, 2026
+- rival-io: Oct 14, 2026: Added. Free Personal Workspace with unlimited DeepSeek 4 Flash and a $1 one-time run balance; pricing page says no credit card.
+- onepin: Oct 14, 2026: Added. Free plan with 1,000 one-time credits (about 15 minutes of validated audio); pricing page says no card.
+- rill-browser: Oct 14, 2026: Added. AI browser, free during beta; AI features run on your own Claude Code or Codex plan.
+- vercel-ai-gateway: Oct 14, 2026: Added promo. Nemotron 3.5 Lightning free on Vercel AI Gateway.
+- opencode: Oct 14, 2026: Added promo. Free models on OpenCode Console for a limited time.
+- google-ai-pro-via-jio: Oct 14, 2026: Added promo. Up to 18 months of Google AI Pro free for Jio users in India.
