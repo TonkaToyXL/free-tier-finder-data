@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Free Tier Finder data"
+type: dataset
+authors:
+  - name: "Free Tier Finder"
+    website: "https://freetierfinder.com"
+abstract: "Verified free tiers, promos and startup credits for AI and developer tools, each checked on the vendor's official page."
+url: "https://freetierfinder.com"
+repository-code: "https://github.com/TonkaToyXL/free-tier-finder-data"
+license: CC-BY-4.0
+date-released: 2026-10-14
+version: "2026-10-14"
+keywords: [free-tier, ai-tools, developer-tools, dataset, startup-credits]

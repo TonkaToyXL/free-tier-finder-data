@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Poe",
+    "reason": "missing:free"
+  },
+  {
+    "name": "DeepSeek",
+    "reason": "blocked/empty"
+  },
+  {
+    "name": "Replit",
+    "reason": "missing:starter"
+  },
+  {
+    "name": "Tabnine",
+    "reason": "missing:free"
+  },
+  {
+    "name": "ClickUp",
+    "reason": "blocked/empty"
+  },
+  {
+    "name": "Cloudflare Pages",
+    "reason": "missing:500"
+  },
+  {
+    "name": "Render",
+    "reason": "blocked/empty"
+  },
+  {
+    "name": "MailerLite",
+    "reason": "blocked/empty"
+  },
+  {
+    "name": "Substack",
+    "reason": "missing:free"
+  },
+  {
+    "name": "Buttondown",
+    "reason": "missing:free"
+  },
+  {
+    "name": "PostHog",
+    "reason": "missing:1 million"
+  },
+  {
+    "name": "Google Forms",
+    "reason": "missing:free"
+  },
+  {
+    "name": "Carrd",
+    "reason": "blocked/empty"
+  },
+  {
+    "name": "Jasper",
+    "reason": "trial-only"
+  },
+  {
+    "name": "Gamma",
+    "reason": "blocked/empty"
+  },
+  {
+    "name": "Tome",
+    "reason": "blocked/empty"
+  },
+  {
+    "name": "NotebookLM",
+    "reason": "missing:free"
+  },
+  {
+    "name": "Phind",
+    "reason": "blocked/empty"
+  },
+  {
+    "name": "You.com",
+    "reason": "blocked/empty"
+  },
+  {
+    "name": "Fireflies.ai",
+    "reason": "missing:800"
+  },
+  {
+    "name": "Claude for Startups (Anthropic)",
+    "reason": "removed 2026-10-14: no longer active - claude.com/programs/startups says the cohort is full and new applications are not being accepted"
+  }
+]
