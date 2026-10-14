@@ -2,7 +2,7 @@
 
 Verified free tiers, promos and startup credits for AI and developer tools. This is the source data for [freetierfinder.com](https://freetierfinder.com).
 
-![Last checked](https://img.shields.io/badge/last%20checked-2026--10--14-blue) ![Tools](https://img.shields.io/badge/tools-131-informational) ![Promos](https://img.shields.io/badge/promos-20-informational) ![License: CC BY 4.0](https://img.shields.io/badge/data%20license-CC%20BY%204.0-lightgrey)
+![Last checked](https://img.shields.io/badge/last%20checked-2026--10--14-blue) ![Tools](https://img.shields.io/badge/tools-134-informational) ![Promos](https://img.shields.io/badge/promos-23-informational) ![License: CC BY 4.0](https://img.shields.io/badge/data%20license-CC%20BY%204.0-lightgrey)
 
 - Site: https://freetierfinder.com
 - Machine-readable summary: https://freetierfinder.com/llms.txt
@@ -11,8 +11,8 @@ Verified free tiers, promos and startup credits for AI and developer tools. This
 
 | File | Contents |
 | --- | --- |
-| `data/tools.json`, `data/tools.csv` | 131 tools with active free tiers |
-| `data/promos.json`, `data/promos.csv` | 20 promos, credits and startup programs |
+| `data/tools.json`, `data/tools.csv` | 134 tools with active free tiers |
+| `data/promos.json`, `data/promos.csv` | 23 promos, credits and startup programs |
 | `data/dropped.json` | Entries removed after their free tier ended or could not be confirmed |
 | `scripts/export.py` | Regenerates the data files, this README and the changelog |
 
@@ -56,6 +56,7 @@ Verified free tiers, promos and startup credits for AI and developer tools. This
 | [Kilo Code](https://freetierfinder.com/tool/kilo-code) | Open-source agentic coding assistant and code completion; works with any AI model. | Not stated on pricing page | 2026-10-14 |
 | [Langflow](https://freetierfinder.com/tool/langflow) | Drag-and-drop agent and flow builder with Python under the hood; deploy flows as APIs. | Not stated on pricing page | 2026-10-14 |
 | [OpenHands](https://freetierfinder.com/tool/openhands) | Local open-source OpenHands agent (web GUI, terminal UI, CLI), plus free hosted cloud access with API, Jira and Slack integrations. | Not stated on pricing page | 2026-10-14 |
+| [Rival.io](https://freetierfinder.com/tool/rival-io) | A $0 Personal Workspace with unlimited DeepSeek 4 Flash (one concurrent connection) and a $1 one-time run balance. | No | 2026-10-14 |
 | [Roomote](https://freetierfinder.com/tool/roomote) | The same Roomote app as Cloud, self-hosted, all features, no license needed under 10 users. | Not stated on pricing page | 2026-10-14 |
 
 ### AI APIs
@@ -80,6 +81,7 @@ Verified free tiers, promos and startup credits for AI and developer tools. This
 | [AssemblyAI](https://freetierfinder.com/tool/assemblyai) | $50 in free credits on signup for speech-to-text and other APIs. | No (stated on pricing page) | 2026-10-14 |
 | [Cartesia](https://freetierfinder.com/tool/cartesia) | 20K credits a month for text to speech and speech to text (about 27 minutes of Sonic-3.6 audio), plus $1 a month of prepaid voice-agent usage. | Not stated on pricing page | 2026-10-14 |
 | [ElevenLabs](https://freetierfinder.com/tool/elevenlabs) | 10,000 credits a month for text to speech, speech to text, sound effects and more; 3 Studio projects. | Not stated on pricing page | 2026-10-14 |
+| [Onepin](https://freetierfinder.com/tool/onepin) | 1,000 one-time credits, about 15 minutes of validated audio. | No | 2026-10-14 |
 | [Suno](https://freetierfinder.com/tool/suno) | 50 credits a day on free models, standard features, upload up to 8 minutes of audio. | Not stated on pricing page | 2026-10-14 |
 
 ### AI Chat
@@ -252,6 +254,7 @@ Verified free tiers, promos and startup credits for AI and developer tools. This
 | [Obsidian](https://freetierfinder.com/tool/obsidian) | The full Obsidian app with no limits. | Not stated on pricing page | 2026-10-14 |
 | [Otter.ai](https://freetierfinder.com/tool/otter-ai) | 300 transcription minutes a month, live transcription, 3 lifetime file imports. | Not stated on pricing page | 2026-10-14 |
 | [Raycast](https://freetierfinder.com/tool/raycast) | All built-in extensions and public community extensions, for personal or organizational use. | Not stated on pricing page | 2026-10-14 |
+| [Rill Browser](https://freetierfinder.com/tool/rill-browser) | The Rill AI browser, free while in beta. | Not stated on pricing page | 2026-10-14 |
 | [tl;dv](https://freetierfinder.com/tool/tl-dv) | Unlimited recordings, viewers, storage and transcription in 30+ languages; 10 meetings with AI notes and 10 Ask AI queries. | No (stated on pricing page) | 2026-10-14 |
 | [Todoist](https://freetierfinder.com/tool/todoist) | 5 personal projects, Smart Quick Add, task reminders. | Not stated on pricing page | 2026-10-14 |
 | [Trello](https://freetierfinder.com/tool/trello) | Up to 10 boards per Workspace, 10 collaborators, unlimited cards and Power-Ups, 10 MB per file. | Not stated on pricing page | 2026-10-14 |
@@ -310,16 +313,19 @@ Verified free tiers, promos and startup credits for AI and developer tools. This
 | [ElevenLabs: 10,000 free voice credits every month](https://freetierfinder.com/promo/elevenlabs) | Generous free tier | Ongoing | 2026-10-14 |
 | [ElevenLabs Startup Grants: 33,000,000 characters (ElevenLabs says "$5,500+ in value", about 680 hours of Agents)](https://freetierfinder.com/promo/elevenlabs-startup-grants) | Startup credits | Ongoing program; terms can change | 2026-10-14 |
 | [Gemini CLI: 1,000 coding-agent requests a day](https://freetierfinder.com/promo/gemini-cli) | Generous free tier | Ongoing | 2026-10-14 |
+| [Google AI Pro via Jio: Up to 18 months of Google AI Pro free for Jio users in India](https://freetierfinder.com/promo/google-ai-pro-via-jio) | Carrier bundle | No end date stated | 2026-10-14 |
 | [Google for Startups Cloud: $2,000 for pre-funded startups; $200,000–$350,000 for Seed to Series A](https://freetierfinder.com/promo/google-for-startups-cloud) | Startup credits | Ongoing program; terms can change | 2026-10-14 |
 | [Google Vids: Free AI video generation for any Google account](https://freetierfinder.com/promo/google-vids) | New free tier | No end date stated | 2026-10-14 |
 | [Kit (ConvertKit): A free newsletter plan for up to 10,000 subscribers](https://freetierfinder.com/promo/kit-convertkit) | Generous free tier | Ongoing | 2026-10-14 |
 | [Microsoft for Startups: Up to $150,000 in credits, plus AI models and developer tools](https://freetierfinder.com/promo/microsoft-for-startups) | Startup credits | Ongoing program; terms can change | 2026-10-14 |
 | [MongoDB for Startups: Atlas credits (the amount isn't shown on the page)](https://freetierfinder.com/promo/mongodb-for-startups) | Startup credits | Ongoing program; terms can change | 2026-10-14 |
 | [Notion for Startups: Business plan free for up to 6 months (Notion says "save $12,000")](https://freetierfinder.com/promo/notion-for-startups) | Startup credits | Ongoing program; terms can change | 2026-10-14 |
+| [OpenCode: Free models on OpenCode Console](https://freetierfinder.com/promo/opencode) | Limited-time free models | Limited time; no end date stated | 2026-10-14 |
 | [PostHog for Startups: $50,000 in PostHog credits for 12 months, plus $12,000 in partner perks](https://freetierfinder.com/promo/posthog-for-startups) | Startup credits | Ongoing program; terms can change | 2026-10-14 |
 | [Runable for Startups: $5,000 in credits](https://freetierfinder.com/promo/runable-for-startups) | Startup credits | Ongoing program; terms can change | 2026-10-14 |
 | [Runway: 125 one-time free credits for AI video](https://freetierfinder.com/promo/runway) | One-time credits | No end date stated | 2026-10-14 |
 | [Stripe Atlas: $2,500 in Stripe credits plus $50,000+ in partner discounts](https://freetierfinder.com/promo/stripe-atlas) | Startup credits | Ongoing program; terms can change | 2026-10-14 |
+| [Vercel AI Gateway: Free Nemotron 3.5 Lightning on AI Gateway](https://freetierfinder.com/promo/vercel-ai-gateway) | Limited-time free model | No end date stated | 2026-10-14 |
 | [Vercel for Startups: Up to $30,000 in Flexible Commitment Amount, plus Enterprise-tier access](https://freetierfinder.com/promo/vercel-for-startups) | Startup credits | Ongoing program; terms can change | 2026-10-14 |
 
 ## Report an outdated entry

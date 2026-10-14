@@ -4,7 +4,7 @@ Entry-level changes recorded at each recheck. Newest first.
 
 ## 2026-10-14
 
-- Dataset published: 131 tools, 20 promos, 21 retired entries.
+- Dataset published: 134 tools, 23 promos, 21 retired entries.
 
 ### Entry updates
 

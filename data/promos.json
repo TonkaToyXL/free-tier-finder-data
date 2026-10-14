@@ -126,6 +126,20 @@
     "expires": "Ongoing"
   },
   {
+    "name": "Google AI Pro via Jio",
+    "category": "Carrier bundle",
+    "what_you_get": "Up to 18 months of Google AI Pro (₹35,100 value), including Gemini 4 Argon in the Gemini app and AI Mode.",
+    "how_to_get_it": "Claim it in MyJio or on jio.com and link your Google account.",
+    "requirements": "A Jio SIM, age 18+, and an active unlimited 5G plan of ₹349 or more kept for the whole period. No card to Google.",
+    "catch": "India and Jio only, and the paid Jio plan is the price of entry. Gemini 4 Argon is not in AI Studio or the API on Pro.",
+    "no_card_status": "Not stated by vendor",
+    "official_source_url": "https://www.jio.com/google-gemini-offer/",
+    "date_checked": "2026-10-14",
+    "page_url": "https://freetierfinder.com/promo/google-ai-pro-via-jio",
+    "title": "Up to 18 months of Google AI Pro free for Jio users in India",
+    "expires": "No end date stated"
+  },
+  {
     "name": "Google for Startups Cloud",
     "category": "Startup credits",
     "what_you_get": "$2,000 in credits for pre-funded startups; $200,000 (up to $350,000 for AI-first) for Seed to Series A.",
@@ -210,6 +224,20 @@
     "expires": "Ongoing program; terms can change"
   },
   {
+    "name": "OpenCode",
+    "category": "Limited-time free models",
+    "what_you_get": "$0 access to free models such as Cat Jam Free, Step 5 Preview Free, LongCat 2.5 Preview Free, Big Pickle and Space Bunny Free.",
+    "how_to_get_it": "Sign up for OpenCode Console and pick a free model.",
+    "requirements": "An OpenCode Console account; sign-up asks for billing or credits.",
+    "catch": "Marked limited time with no end date, and some free models use your data for training.",
+    "no_card_status": "Not stated by vendor",
+    "official_source_url": "https://opencode.ai/docs/zen/",
+    "date_checked": "2026-10-14",
+    "page_url": "https://freetierfinder.com/promo/opencode",
+    "title": "Free models on OpenCode Console",
+    "expires": "Limited time; no end date stated"
+  },
+  {
     "name": "PostHog for Startups",
     "category": "Startup credits",
     "what_you_get": "$50,000 in PostHog credits for 12 months plus $12,000 in partner perks.",
@@ -264,6 +292,20 @@
     "page_url": "https://freetierfinder.com/promo/stripe-atlas",
     "title": "$2,500 in Stripe credits plus $50,000+ in partner discounts",
     "expires": "Ongoing program; terms can change"
+  },
+  {
+    "name": "Vercel AI Gateway",
+    "category": "Limited-time free model",
+    "what_you_get": "Nemotron 3.5 Lightning at $0 per token through AI Gateway (model id nvidia/nemotron-3.5-lightning-free).",
+    "how_to_get_it": "Select nvidia/nemotron-3.5-lightning-free in AI Gateway from your Vercel account, or point Claude Code, Cursor or Codex at it.",
+    "requirements": "A Vercel account.",
+    "catch": "Runs on an NVIDIA trial endpoint where prompts are logged; do not send confidential data.",
+    "no_card_status": "Not stated by vendor",
+    "official_source_url": "https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free",
+    "date_checked": "2026-10-14",
+    "page_url": "https://freetierfinder.com/promo/vercel-ai-gateway",
+    "title": "Free Nemotron 3.5 Lightning on AI Gateway",
+    "expires": "No end date stated"
   },
   {
     "name": "Vercel for Startups",

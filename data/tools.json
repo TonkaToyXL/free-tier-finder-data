@@ -132,6 +132,18 @@
     "page_url": "https://freetierfinder.com/tool/openhands"
   },
   {
+    "name": "Rival.io",
+    "category": "AI Agents",
+    "what_you_get": "A $0 Personal Workspace with unlimited DeepSeek 4 Flash (one concurrent connection) and a $1 one-time run balance.",
+    "how_to_get_it": "Sign up for the Free Personal Workspace at rival.io.",
+    "requirements": "Not stated by vendor",
+    "catch": "Compute and marketplace tools are billed from the run balance; no API or CLI access on Free.",
+    "no_card_status": "No",
+    "official_source_url": "https://rival.io/pricing",
+    "date_checked": "2026-10-14",
+    "page_url": "https://freetierfinder.com/tool/rival-io"
+  },
+  {
     "name": "Roomote",
     "category": "AI Agents",
     "what_you_get": "The same Roomote app as Cloud, self-hosted, all features, no license needed under 10 users.",
@@ -298,6 +310,18 @@
     "official_source_url": "https://elevenlabs.io/pricing",
     "date_checked": "2026-10-14",
     "page_url": "https://freetierfinder.com/tool/elevenlabs"
+  },
+  {
+    "name": "Onepin",
+    "category": "AI Audio",
+    "what_you_get": "1,000 one-time credits, about 15 minutes of validated audio.",
+    "how_to_get_it": "Start on the Free plan at onepin.ai.",
+    "requirements": "Not stated by vendor",
+    "catch": "Credits are one-time, and Free has no download or export.",
+    "no_card_status": "No",
+    "official_source_url": "https://onepin.ai/pricing",
+    "date_checked": "2026-10-14",
+    "page_url": "https://freetierfinder.com/tool/onepin"
   },
   {
     "name": "Suno",
@@ -1342,6 +1366,18 @@
     "official_source_url": "https://www.raycast.com/pricing",
     "date_checked": "2026-10-14",
     "page_url": "https://freetierfinder.com/tool/raycast"
+  },
+  {
+    "name": "Rill Browser",
+    "category": "Productivity",
+    "what_you_get": "The Rill AI browser, free while in beta.",
+    "how_to_get_it": "Download it from rill.love.",
+    "requirements": "An Apple-silicon Mac on macOS 14 or later, plus your own Claude Code or Codex plan for AI features.",
+    "catch": "AI features need your own Claude Code or Codex plan; Apple-silicon macOS 14+ only.",
+    "no_card_status": "Not stated on pricing page",
+    "official_source_url": "https://rill.love",
+    "date_checked": "2026-10-14",
+    "page_url": "https://freetierfinder.com/tool/rill-browser"
   },
   {
     "name": "tl;dv",
