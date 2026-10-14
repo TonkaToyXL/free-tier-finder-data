@@ -21,6 +21,7 @@ def load(n): return json.load(open(os.path.join(SRC, n)))
 
 FIELDS = ["name", "category", "what_you_get", "how_to_get_it", "requirements", "catch",
           "no_card_status", "official_source_url", "date_checked", "page_url"]
+TOOL_FIELDS = FIELDS + ["limits_unpublished", "last_changed"]
 
 tools = [{
     "name": t["name"], "category": t["category"],
@@ -30,6 +31,8 @@ tools = [{
     "official_source_url": official(t.get("facts_source") or t.get("pricing_url")),
     "date_checked": t.get("facts_checked") or t.get("last_verified", ""),
     "page_url": f"{SITE}/tool/{slug(t['name'])}",
+    "limits_unpublished": bool(t.get("limits_unpublished")),
+    "last_changed": t.get("data_changed") or t.get("facts_checked") or t.get("last_verified", ""),
 } for t in load("tools.json")]
 tools.sort(key=lambda r: (r["category"].lower(), r["name"].lower()))
 
@@ -53,8 +56,9 @@ def wc(n, rows, f):
     with open(os.path.join(ROOT, "data", n), "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=f, extrasaction="ignore"); w.writeheader(); w.writerows(rows)
 wj("tools.json", tools); wj("promos.json", promos); wj("dropped.json", dropped)
-wc("tools.csv", tools, FIELDS); wc("promos.csv", promos, FIELDS + ["title", "expires"])
+wc("tools.csv", tools, TOOL_FIELDS); wc("promos.csv", promos, FIELDS + ["title", "expires"])
 
+NO_CARD = sum(1 for t in tools if t["no_card_status"].lower().startswith("no ("))
 latest = max(r["date_checked"] for r in tools + promos)
 
 # README table
@@ -82,4 +86,4 @@ out = ["# Changelog", "", "Entry-level changes recorded at each recheck. Newest 
        f"- Dataset published: {len(tools)} tools, {len(promos)} promos, {len(dropped)} retired entries.", ""]
 out += ["### Entry updates", ""] + [f"- {k}: {esc(v)}" for k, v in cl.items()] + [""]
 open(os.path.join(ROOT, "CHANGELOG.md"), "w").write("\n".join(out))
-print(f"tools={len(tools)} promos={len(promos)} dropped={len(dropped)} categories={len(cats)} latest={latest}")
+print(f"no_card={NO_CARD} tools={len(tools)} promos={len(promos)} dropped={len(dropped)} categories={len(cats)} latest={latest}")

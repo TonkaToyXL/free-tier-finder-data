@@ -9,7 +9,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://aider.chat/docs/faq.html",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/aider"
+    "page_url": "https://freetierfinder.com/tool/aider",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Botpress",
@@ -21,7 +23,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.botpress.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/botpress"
+    "page_url": "https://freetierfinder.com/tool/botpress",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Cline",
@@ -33,7 +37,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://cline.bot/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/cline"
+    "page_url": "https://freetierfinder.com/tool/cline",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "CrewAI",
@@ -45,7 +51,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.crewai.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/crewai"
+    "page_url": "https://freetierfinder.com/tool/crewai",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Cursor",
@@ -57,7 +65,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://cursor.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/cursor"
+    "page_url": "https://freetierfinder.com/tool/cursor",
+    "limits_unpublished": true,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Dify",
@@ -69,7 +79,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://dify.ai/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/dify"
+    "page_url": "https://freetierfinder.com/tool/dify",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Flowise",
@@ -81,19 +93,23 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://flowiseai.com/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/flowise"
+    "page_url": "https://freetierfinder.com/tool/flowise",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Hark",
     "category": "AI Agents",
-    "what_you_get": "All Hark Pro features free, no ads.",
+    "what_you_get": "All Hark Pro features, no ads; the free usage amount is not published.",
     "how_to_get_it": "Sign up at hark.com.",
     "requirements": "A Hark account (sign up with Google, Apple or the form on hark.com).",
     "catch": "The free usage amount is not stated; paid plans ($20 and $100 a month) add 2x and 10x usage, with no extra features.",
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://hark.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/hark"
+    "page_url": "https://freetierfinder.com/tool/hark",
+    "limits_unpublished": true,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Kilo Code",
@@ -105,7 +121,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://kilo.ai/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/kilo-code"
+    "page_url": "https://freetierfinder.com/tool/kilo-code",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Langflow",
@@ -117,7 +135,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.langflow.org/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/langflow"
+    "page_url": "https://freetierfinder.com/tool/langflow",
+    "limits_unpublished": true,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "OpenHands",
@@ -129,7 +149,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.openhands.dev/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/openhands"
+    "page_url": "https://freetierfinder.com/tool/openhands",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Rival.io",
@@ -141,7 +163,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://rival.io/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/rival-io"
+    "page_url": "https://freetierfinder.com/tool/rival-io",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Roomote",
@@ -153,7 +177,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://roomote.dev/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/roomote"
+    "page_url": "https://freetierfinder.com/tool/roomote",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Cloudflare Workers AI",
@@ -165,7 +191,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/cloudflare-workers-ai"
+    "page_url": "https://freetierfinder.com/tool/cloudflare-workers-ai",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Cohere",
@@ -177,7 +205,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://cohere.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/cohere"
+    "page_url": "https://freetierfinder.com/tool/cohere",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Google AI Studio",
@@ -189,7 +219,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://ai.google.dev/gemini-api/docs/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/google-ai-studio"
+    "page_url": "https://freetierfinder.com/tool/google-ai-studio",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Groq",
@@ -201,19 +233,23 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://console.groq.com/docs/rate-limits",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/groq"
+    "page_url": "https://freetierfinder.com/tool/groq",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Hugging Face",
     "category": "AI APIs",
     "what_you_get": "Hub hosting and Spaces on free CPU Basic (2 vCPU, 16 GB) and ZeroGPU hardware.",
     "how_to_get_it": "Sign up at huggingface.co.",
-    "requirements": "Nothing beyond an email.",
+    "requirements": "A free Hugging Face account.",
     "catch": "Not stated by vendor",
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://huggingface.co/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/hugging-face"
+    "page_url": "https://freetierfinder.com/tool/hugging-face",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "LM Studio",
@@ -225,7 +261,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://lmstudio.ai/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/lm-studio"
+    "page_url": "https://freetierfinder.com/tool/lm-studio",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Mistral La Plateforme",
@@ -237,7 +275,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://mistral.ai/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/mistral-la-plateforme"
+    "page_url": "https://freetierfinder.com/tool/mistral-la-plateforme",
+    "limits_unpublished": true,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "NVIDIA NIM",
@@ -249,7 +289,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://docs.api.nvidia.com/nim/docs/product",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/nvidia-nim"
+    "page_url": "https://freetierfinder.com/tool/nvidia-nim",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Ollama",
@@ -261,7 +303,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://ollama.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/ollama"
+    "page_url": "https://freetierfinder.com/tool/ollama",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "OpenRouter",
@@ -273,7 +317,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://openrouter.ai/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/openrouter"
+    "page_url": "https://freetierfinder.com/tool/openrouter",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "AssemblyAI",
@@ -285,7 +331,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://www.assemblyai.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/assemblyai"
+    "page_url": "https://freetierfinder.com/tool/assemblyai",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Cartesia",
@@ -297,7 +345,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://cartesia.ai/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/cartesia"
+    "page_url": "https://freetierfinder.com/tool/cartesia",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "ElevenLabs",
@@ -309,7 +359,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://elevenlabs.io/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/elevenlabs"
+    "page_url": "https://freetierfinder.com/tool/elevenlabs",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Onepin",
@@ -321,7 +373,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://onepin.ai/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/onepin"
+    "page_url": "https://freetierfinder.com/tool/onepin",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Suno",
@@ -333,31 +387,37 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://suno.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/suno"
+    "page_url": "https://freetierfinder.com/tool/suno",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "ChatGPT",
     "category": "AI Chat",
     "what_you_get": "Unlimited text chats with GPT-6 (subject to abuse guardrails); limited uploads, image creation, voice, deep research and Codex.",
     "how_to_get_it": "Sign up for free at chatgpt.com.",
-    "requirements": "Nothing beyond an email.",
+    "requirements": "A free ChatGPT account.",
     "catch": "Heavier features are capped at unstated limits; the paid Go tier may include ads.",
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://chatgpt.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/chatgpt"
+    "page_url": "https://freetierfinder.com/tool/chatgpt",
+    "limits_unpublished": true,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Claude",
     "category": "AI Chat",
     "what_you_get": "Claude chat on web, desktop and mobile with web search, file creation, code execution, memory, connectors, Artifacts, and Claude Design, Slides and Docs.",
     "how_to_get_it": "Sign up at claude.ai, $0 plan.",
-    "requirements": "Nothing beyond an email.",
+    "requirements": "A Claude account; the pricing table lists no credit card for Free.",
     "catch": "Usage limits are not published (they reset on a rolling five-hour window); Claude Code, Opus models and Research are not included on Free.",
-    "no_card_status": "Not stated on pricing page",
+    "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://claude.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/claude"
+    "page_url": "https://freetierfinder.com/tool/claude",
+    "limits_unpublished": true,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Google Gemini",
@@ -369,7 +429,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://gemini.google/subscriptions/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/google-gemini"
+    "page_url": "https://freetierfinder.com/tool/google-gemini",
+    "limits_unpublished": true,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Microsoft Copilot",
@@ -381,7 +443,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://copilot.microsoft.com/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/microsoft-copilot"
+    "page_url": "https://freetierfinder.com/tool/microsoft-copilot",
+    "limits_unpublished": true,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Mistral Le Chat",
@@ -393,7 +457,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://mistral.ai/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/mistral-le-chat"
+    "page_url": "https://freetierfinder.com/tool/mistral-le-chat",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Bolt.new",
@@ -405,7 +471,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://bolt.new/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/bolt-new"
+    "page_url": "https://freetierfinder.com/tool/bolt-new",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Gemini CLI",
@@ -417,7 +485,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://geminicli.com/docs/resources/quota-and-pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/gemini-cli"
+    "page_url": "https://freetierfinder.com/tool/gemini-cli",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "GitHub Copilot",
@@ -429,7 +499,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://github.com/features/copilot/plans",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/github-copilot"
+    "page_url": "https://freetierfinder.com/tool/github-copilot",
+    "limits_unpublished": true,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Google Antigravity",
@@ -441,7 +513,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://antigravity.google/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/google-antigravity"
+    "page_url": "https://freetierfinder.com/tool/google-antigravity",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Lovable",
@@ -453,7 +527,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://lovable.dev/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/lovable"
+    "page_url": "https://freetierfinder.com/tool/lovable",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "v0",
@@ -465,7 +541,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://v0.app/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/v0"
+    "page_url": "https://freetierfinder.com/tool/v0",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Windsurf",
@@ -477,7 +555,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://devin.ai/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/windsurf"
+    "page_url": "https://freetierfinder.com/tool/windsurf",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Ideogram",
@@ -489,7 +569,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://ideogram.ai/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/ideogram"
+    "page_url": "https://freetierfinder.com/tool/ideogram",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Krea",
@@ -501,7 +583,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.krea.ai/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/krea"
+    "page_url": "https://freetierfinder.com/tool/krea",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Leonardo.ai",
@@ -513,7 +597,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://leonardo.ai/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/leonardo-ai"
+    "page_url": "https://freetierfinder.com/tool/leonardo-ai",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Microsoft Designer",
@@ -525,7 +611,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://designer.microsoft.com/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/microsoft-designer"
+    "page_url": "https://freetierfinder.com/tool/microsoft-designer",
+    "limits_unpublished": true,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Playground",
@@ -537,7 +625,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://playgroundai.com/design/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/playground"
+    "page_url": "https://freetierfinder.com/tool/playground",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Consensus",
@@ -549,7 +639,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://consensus.app/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/consensus"
+    "page_url": "https://freetierfinder.com/tool/consensus",
+    "limits_unpublished": true,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Elicit",
@@ -561,7 +653,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://elicit.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/elicit"
+    "page_url": "https://freetierfinder.com/tool/elicit",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Exa",
@@ -573,7 +667,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://exa.ai/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/exa"
+    "page_url": "https://freetierfinder.com/tool/exa",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Perplexity",
@@ -585,7 +681,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.perplexity.ai/pro",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/perplexity"
+    "page_url": "https://freetierfinder.com/tool/perplexity",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Tavily",
@@ -597,7 +695,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://www.tavily.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/tavily"
+    "page_url": "https://freetierfinder.com/tool/tavily",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "HeyGen",
@@ -609,7 +709,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://www.heygen.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/heygen"
+    "page_url": "https://freetierfinder.com/tool/heygen",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Luma Dream Machine",
@@ -621,7 +723,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://lumalabs.ai/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/luma-dream-machine"
+    "page_url": "https://freetierfinder.com/tool/luma-dream-machine",
+    "limits_unpublished": true,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Pika",
@@ -633,7 +737,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://pika.art/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/pika"
+    "page_url": "https://freetierfinder.com/tool/pika",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Runway",
@@ -645,7 +751,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://runway.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/runway"
+    "page_url": "https://freetierfinder.com/tool/runway",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Google Analytics",
@@ -657,7 +765,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://marketingplatform.google.com/about/analytics/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/google-analytics"
+    "page_url": "https://freetierfinder.com/tool/google-analytics",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Hotjar",
@@ -669,7 +779,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://contentsquare.com/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/hotjar"
+    "page_url": "https://freetierfinder.com/tool/hotjar",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Microsoft Clarity",
@@ -681,7 +793,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://clarity.microsoft.com/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/microsoft-clarity"
+    "page_url": "https://freetierfinder.com/tool/microsoft-clarity",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Mixpanel",
@@ -693,7 +807,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://mixpanel.com/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/mixpanel"
+    "page_url": "https://freetierfinder.com/tool/mixpanel",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Plausible",
@@ -705,7 +821,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://plausible.io/self-hosted-web-analytics",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/plausible"
+    "page_url": "https://freetierfinder.com/tool/plausible",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "IFTTT",
@@ -717,7 +835,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://ifttt.com/plans",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/ifttt"
+    "page_url": "https://freetierfinder.com/tool/ifttt",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Make",
@@ -729,7 +849,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.make.com/en/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/make"
+    "page_url": "https://freetierfinder.com/tool/make",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "n8n",
@@ -741,19 +863,23 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://n8n.io/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/n8n"
+    "page_url": "https://freetierfinder.com/tool/n8n",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Zapier",
     "category": "Automation",
-    "what_you_get": "Not stated by vendor",
+    "what_you_get": "Zaps, Tables and Forms, with 100 tasks a month.",
     "how_to_get_it": "Try it free at zapier.com.",
     "requirements": "Not stated by vendor",
     "catch": "Not stated by vendor",
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://zapier.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/zapier"
+    "page_url": "https://freetierfinder.com/tool/zapier",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Gumroad",
@@ -765,7 +891,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://gumroad.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/gumroad"
+    "page_url": "https://freetierfinder.com/tool/gumroad",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Lemon Squeezy",
@@ -777,7 +905,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://www.lemonsqueezy.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/lemon-squeezy"
+    "page_url": "https://freetierfinder.com/tool/lemon-squeezy",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Stripe",
@@ -789,7 +919,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://stripe.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/stripe"
+    "page_url": "https://freetierfinder.com/tool/stripe",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Firebase",
@@ -798,10 +930,12 @@
     "how_to_get_it": "Get started at firebase.google.com.",
     "requirements": "No payment method needed.",
     "catch": "Some services and higher usage need the Blaze pay-as-you-go plan.",
-    "no_card_status": "Not stated on pricing page",
+    "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://firebase.google.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/firebase"
+    "page_url": "https://freetierfinder.com/tool/firebase",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "MongoDB Atlas",
@@ -813,7 +947,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.mongodb.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/mongodb-atlas"
+    "page_url": "https://freetierfinder.com/tool/mongodb-atlas",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Neon",
@@ -825,7 +961,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://neon.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/neon"
+    "page_url": "https://freetierfinder.com/tool/neon",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Pinecone",
@@ -837,7 +975,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.pinecone.io/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/pinecone"
+    "page_url": "https://freetierfinder.com/tool/pinecone",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Supabase",
@@ -849,7 +989,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://supabase.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/supabase"
+    "page_url": "https://freetierfinder.com/tool/supabase",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Turso",
@@ -861,7 +1003,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://turso.tech/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/turso"
+    "page_url": "https://freetierfinder.com/tool/turso",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Upstash",
@@ -873,7 +1017,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://upstash.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/upstash"
+    "page_url": "https://freetierfinder.com/tool/upstash",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Adobe Express",
@@ -885,7 +1031,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://www.adobe.com/express/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/adobe-express"
+    "page_url": "https://freetierfinder.com/tool/adobe-express",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Canva",
@@ -897,19 +1045,23 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.canva.com/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/canva"
+    "page_url": "https://freetierfinder.com/tool/canva",
+    "limits_unpublished": true,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Figma",
     "category": "Design",
     "what_you_get": "Unlimited drafts, UI kits and templates, 150 AI credits a day up to 500 a month.",
     "how_to_get_it": "Get started for free at figma.com.",
-    "requirements": "Nothing beyond an email.",
+    "requirements": "A free Figma account.",
     "catch": "Starter is limited access to Figma products; some products allow only 5 templates.",
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.figma.com/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/figma"
+    "page_url": "https://freetierfinder.com/tool/figma",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Napkin",
@@ -921,7 +1073,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.napkin.ai/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/napkin"
+    "page_url": "https://freetierfinder.com/tool/napkin",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Photopea",
@@ -933,7 +1087,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.photopea.com/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/photopea"
+    "page_url": "https://freetierfinder.com/tool/photopea",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Remove.bg",
@@ -945,7 +1101,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.remove.bg/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/remove-bg"
+    "page_url": "https://freetierfinder.com/tool/remove-bg",
+    "limits_unpublished": true,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Cloudflare Workers",
@@ -957,19 +1115,23 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://developers.cloudflare.com/workers/platform/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/cloudflare-workers"
+    "page_url": "https://freetierfinder.com/tool/cloudflare-workers",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "GitHub",
     "category": "Dev Hosting",
     "what_you_get": "Unlimited public and private repositories, 2,000 CI/CD minutes a month (free for public repos).",
     "how_to_get_it": "Join for free at github.com.",
-    "requirements": "Nothing beyond an email.",
+    "requirements": "A free GitHub account.",
     "catch": "Actions minutes on private repos are capped at 2,000 a month.",
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://github.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/github"
+    "page_url": "https://freetierfinder.com/tool/github",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "GitHub Pages",
@@ -981,7 +1143,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/github-pages"
+    "page_url": "https://freetierfinder.com/tool/github-pages",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "GitLab",
@@ -993,7 +1157,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://about.gitlab.com/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/gitlab"
+    "page_url": "https://freetierfinder.com/tool/gitlab",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Netlify",
@@ -1005,7 +1171,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.netlify.com/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/netlify"
+    "page_url": "https://freetierfinder.com/tool/netlify",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Vercel",
@@ -1017,7 +1185,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://vercel.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/vercel"
+    "page_url": "https://freetierfinder.com/tool/vercel",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Clerk",
@@ -1029,7 +1199,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://clerk.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/clerk"
+    "page_url": "https://freetierfinder.com/tool/clerk",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Docker",
@@ -1041,7 +1213,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.docker.com/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/docker"
+    "page_url": "https://freetierfinder.com/tool/docker",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Firecrawl",
@@ -1053,7 +1227,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://www.firecrawl.dev/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/firecrawl"
+    "page_url": "https://freetierfinder.com/tool/firecrawl",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Langfuse",
@@ -1065,7 +1241,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://langfuse.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/langfuse"
+    "page_url": "https://freetierfinder.com/tool/langfuse",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Postman",
@@ -1077,7 +1255,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.postman.com/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/postman"
+    "page_url": "https://freetierfinder.com/tool/postman",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Sentry",
@@ -1089,7 +1269,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://sentry.io/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/sentry"
+    "page_url": "https://freetierfinder.com/tool/sentry",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Warp",
@@ -1101,7 +1283,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.warp.dev/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/warp"
+    "page_url": "https://freetierfinder.com/tool/warp",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "beehiiv",
@@ -1113,7 +1297,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://www.beehiiv.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/beehiiv"
+    "page_url": "https://freetierfinder.com/tool/beehiiv",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Brevo",
@@ -1125,7 +1311,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://www.brevo.com/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/brevo"
+    "page_url": "https://freetierfinder.com/tool/brevo",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Kit (ConvertKit)",
@@ -1137,7 +1325,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://kit.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/kit-convertkit"
+    "page_url": "https://freetierfinder.com/tool/kit-convertkit",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Mailchimp",
@@ -1149,7 +1339,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://mailchimp.com/pricing/marketing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/mailchimp"
+    "page_url": "https://freetierfinder.com/tool/mailchimp",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Postmark",
@@ -1161,7 +1353,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://postmarkapp.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/postmark"
+    "page_url": "https://freetierfinder.com/tool/postmark",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Resend",
@@ -1173,7 +1367,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://resend.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/resend"
+    "page_url": "https://freetierfinder.com/tool/resend",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Jotform",
@@ -1185,7 +1381,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.jotform.com/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/jotform"
+    "page_url": "https://freetierfinder.com/tool/jotform",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Tally",
@@ -1197,7 +1395,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://tally.so/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/tally"
+    "page_url": "https://freetierfinder.com/tool/tally",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Discord",
@@ -1209,7 +1409,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://discord.com/nitro",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/discord"
+    "page_url": "https://freetierfinder.com/tool/discord",
+    "limits_unpublished": true,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Loom",
@@ -1221,7 +1423,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.loom.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/loom"
+    "page_url": "https://freetierfinder.com/tool/loom",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Slack",
@@ -1233,7 +1437,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://slack.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/slack"
+    "page_url": "https://freetierfinder.com/tool/slack",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Zoom",
@@ -1245,7 +1451,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://zoom.us/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/zoom"
+    "page_url": "https://freetierfinder.com/tool/zoom",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Airtable",
@@ -1257,7 +1465,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.airtable.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/airtable"
+    "page_url": "https://freetierfinder.com/tool/airtable",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Asana",
@@ -1269,7 +1479,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://asana.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/asana"
+    "page_url": "https://freetierfinder.com/tool/asana",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Cal.com",
@@ -1281,7 +1493,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://cal.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/cal-com"
+    "page_url": "https://freetierfinder.com/tool/cal-com",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Calendly",
@@ -1293,7 +1507,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://calendly.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/calendly"
+    "page_url": "https://freetierfinder.com/tool/calendly",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Fireflies.ai",
@@ -1305,7 +1521,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://fireflies.ai/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/fireflies-ai"
+    "page_url": "https://freetierfinder.com/tool/fireflies-ai",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Linear",
@@ -1317,7 +1535,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://linear.app/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/linear"
+    "page_url": "https://freetierfinder.com/tool/linear",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Miro",
@@ -1329,19 +1549,23 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://miro.com/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/miro"
+    "page_url": "https://freetierfinder.com/tool/miro",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Notion",
     "category": "Productivity",
     "what_you_get": "Personal workspace with forms, sites, Notion Calendar and a trial of Notion AI.",
     "how_to_get_it": "Sign up at notion.com.",
-    "requirements": "Nothing beyond an email.",
+    "requirements": "A free Notion account.",
     "catch": "Notion AI is a trial only.",
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.notion.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/notion"
+    "page_url": "https://freetierfinder.com/tool/notion",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Obsidian",
@@ -1353,7 +1577,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://obsidian.md/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/obsidian"
+    "page_url": "https://freetierfinder.com/tool/obsidian",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Otter.ai",
@@ -1365,7 +1591,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://otter.ai/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/otter-ai"
+    "page_url": "https://freetierfinder.com/tool/otter-ai",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Raycast",
@@ -1377,7 +1605,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.raycast.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/raycast"
+    "page_url": "https://freetierfinder.com/tool/raycast",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Rill Browser",
@@ -1389,7 +1619,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://rill.love",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/rill-browser"
+    "page_url": "https://freetierfinder.com/tool/rill-browser",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "tl;dv",
@@ -1401,7 +1633,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://tldv.io/app/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/tl-dv"
+    "page_url": "https://freetierfinder.com/tool/tl-dv",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Todoist",
@@ -1413,7 +1647,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.todoist.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/todoist"
+    "page_url": "https://freetierfinder.com/tool/todoist",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Trello",
@@ -1425,7 +1661,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://trello.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/trello"
+    "page_url": "https://freetierfinder.com/tool/trello",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Buffer",
@@ -1437,7 +1675,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://buffer.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/buffer"
+    "page_url": "https://freetierfinder.com/tool/buffer",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Linktree",
@@ -1449,7 +1689,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://linktr.ee/s/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/linktree"
+    "page_url": "https://freetierfinder.com/tool/linktree",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Dropbox",
@@ -1461,7 +1703,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.dropbox.com/plans",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/dropbox"
+    "page_url": "https://freetierfinder.com/tool/dropbox",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Google Drive",
@@ -1473,7 +1717,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://one.google.com/about/plans",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/google-drive"
+    "page_url": "https://freetierfinder.com/tool/google-drive",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Mega",
@@ -1485,7 +1731,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://mega.io/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/mega"
+    "page_url": "https://freetierfinder.com/tool/mega",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "CapCut",
@@ -1497,19 +1745,23 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://www.capcut.com/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/capcut"
+    "page_url": "https://freetierfinder.com/tool/capcut",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Clipchamp",
     "category": "Video",
     "what_you_get": "Free video editor with AI editing, recorders, free stock assets and filters.",
     "how_to_get_it": "Sign in at clipchamp.com with a personal Microsoft account.",
-    "requirements": "A personal Microsoft account; no payment.",
+    "requirements": "A personal Microsoft account; no payment required.",
     "catch": "Premium stock, filters and brand kit need Microsoft 365 Personal or Family.",
-    "no_card_status": "Not stated on pricing page",
+    "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://clipchamp.com/en/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/clipchamp"
+    "page_url": "https://freetierfinder.com/tool/clipchamp",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Descript",
@@ -1521,7 +1773,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.descript.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/descript"
+    "page_url": "https://freetierfinder.com/tool/descript",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Kapwing",
@@ -1533,7 +1787,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.kapwing.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/kapwing"
+    "page_url": "https://freetierfinder.com/tool/kapwing",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Framer",
@@ -1545,7 +1801,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.framer.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/framer"
+    "page_url": "https://freetierfinder.com/tool/framer",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Webflow",
@@ -1557,7 +1815,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://webflow.com/pricing",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/webflow"
+    "page_url": "https://freetierfinder.com/tool/webflow",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Wix",
@@ -1569,7 +1829,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://www.wix.com/plans",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/wix"
+    "page_url": "https://freetierfinder.com/tool/wix",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "WordPress.com",
@@ -1581,7 +1843,9 @@
     "no_card_status": "No (stated on pricing page)",
     "official_source_url": "https://wordpress.com/pricing/",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/wordpress-com"
+    "page_url": "https://freetierfinder.com/tool/wordpress-com",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Copy.ai",
@@ -1593,7 +1857,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.copy.ai/prices",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/copy-ai"
+    "page_url": "https://freetierfinder.com/tool/copy-ai",
+    "limits_unpublished": true,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "Grammarly",
@@ -1605,7 +1871,9 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://www.grammarly.com/plans",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/grammarly"
+    "page_url": "https://freetierfinder.com/tool/grammarly",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   },
   {
     "name": "QuillBot",
@@ -1617,6 +1885,8 @@
     "no_card_status": "Not stated on pricing page",
     "official_source_url": "https://quillbot.com/premium",
     "date_checked": "2026-10-14",
-    "page_url": "https://freetierfinder.com/tool/quillbot"
+    "page_url": "https://freetierfinder.com/tool/quillbot",
+    "limits_unpublished": false,
+    "last_changed": "2026-10-14"
   }
 ]

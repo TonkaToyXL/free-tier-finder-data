@@ -52,7 +52,7 @@ Verified free tiers, promos and startup credits for AI and developer tools. This
 | [Cursor](https://freetierfinder.com/tool/cursor) | Cursor Agent with limited AI usage, limited agent requests and limited chat requests. | Not stated on pricing page | 2026-10-14 |
 | [Dify](https://freetierfinder.com/tool/dify) | 200 message credits to try models from OpenAI, Anthropic, Gemini, xAI and Tongyi, then switch to your own API key; 5 apps. | Not stated on pricing page | 2026-10-14 |
 | [Flowise](https://freetierfinder.com/tool/flowise) | 2 flows and assistants, 100 predictions a month, 5MB storage, evaluations and metrics, embedded chatbot. | Not stated on pricing page | 2026-10-14 |
-| [Hark](https://freetierfinder.com/tool/hark) | All Hark Pro features free, no ads. | Not stated on pricing page | 2026-10-14 |
+| [Hark](https://freetierfinder.com/tool/hark) | All Hark Pro features, no ads; the free usage amount is not published. | Not stated on pricing page | 2026-10-14 |
 | [Kilo Code](https://freetierfinder.com/tool/kilo-code) | Open-source agentic coding assistant and code completion; works with any AI model. | Not stated on pricing page | 2026-10-14 |
 | [Langflow](https://freetierfinder.com/tool/langflow) | Drag-and-drop agent and flow builder with Python under the hood; deploy flows as APIs. | Not stated on pricing page | 2026-10-14 |
 | [OpenHands](https://freetierfinder.com/tool/openhands) | Local open-source OpenHands agent (web GUI, terminal UI, CLI), plus free hosted cloud access with API, Jira and Slack integrations. | Not stated on pricing page | 2026-10-14 |
@@ -89,7 +89,7 @@ Verified free tiers, promos and startup credits for AI and developer tools. This
 | Tool | Free tier | Card required | Checked |
 | --- | --- | --- | --- |
 | [ChatGPT](https://freetierfinder.com/tool/chatgpt) | Unlimited text chats with GPT-6 (subject to abuse guardrails); limited uploads, image creation, voice, deep research and Codex. | Not stated on pricing page | 2026-10-14 |
-| [Claude](https://freetierfinder.com/tool/claude) | Claude chat on web, desktop and mobile with web search, file creation, code execution, memory, connectors, Artifacts, and Claude Design, Slides and Docs. | Not stated on pricing page | 2026-10-14 |
+| [Claude](https://freetierfinder.com/tool/claude) | Claude chat on web, desktop and mobile with web search, file creation, code execution, memory, connectors, Artifacts, and Claude Design, Slides and Docs. | No (stated on pricing page) | 2026-10-14 |
 | [Google Gemini](https://freetierfinder.com/tool/google-gemini) | Gemini app with the Flash-Lite model, image generation and editing, Deep Research, Gemini Live, Canvas, Gems, limited Google Flow access and 15 GB of storage. | Not stated on pricing page | 2026-10-14 |
 | [Microsoft Copilot](https://freetierfinder.com/tool/microsoft-copilot) | Copilot on web, desktop and mobile to research, create content and generate images, plus Word, Excel and PowerPoint free on the web. | Not stated on pricing page | 2026-10-14 |
 | [Mistral Le Chat](https://freetierfinder.com/tool/mistral-le-chat) | Mistral's assistant (called Vibe on the pricing page) on web and mobile with limited messages, web searches and coding sessions, basic image generation and editing, and 100+ connectors. | Not stated on pricing page | 2026-10-14 |
@@ -157,7 +157,7 @@ Verified free tiers, promos and startup credits for AI and developer tools. This
 | [IFTTT](https://freetierfinder.com/tool/ifttt) | 2 Applets, unlimited Applet runs, standard speeds, mobile app. | Not stated on pricing page | 2026-10-14 |
 | [Make](https://freetierfinder.com/tool/make) | 1,000 credits a month, no-code visual workflow builder, 3,500+ apps, routers and filters, 1 MB data storage and 1 data store. | Not stated on pricing page | 2026-10-14 |
 | [n8n](https://freetierfinder.com/tool/n8n) | Self-hosted n8n; hosted n8n Cloud offers a 14-day free trial with 800 Assistant credits. | No (stated on pricing page) | 2026-10-14 |
-| [Zapier](https://freetierfinder.com/tool/zapier) | Not stated by vendor | No (stated on pricing page) | 2026-10-14 |
+| [Zapier](https://freetierfinder.com/tool/zapier) | Zaps, Tables and Forms, with 100 tasks a month. | No (stated on pricing page) | 2026-10-14 |
 
 ### Commerce
 
@@ -171,7 +171,7 @@ Verified free tiers, promos and startup credits for AI and developer tools. This
 
 | Tool | Free tier | Card required | Checked |
 | --- | --- | --- | --- |
-| [Firebase](https://freetierfinder.com/tool/firebase) | Spark plan with no-cost usage limits across Firestore, Auth, Hosting and more. | Not stated on pricing page | 2026-10-14 |
+| [Firebase](https://freetierfinder.com/tool/firebase) | Spark plan with no-cost usage limits across Firestore, Auth, Hosting and more. | No (stated on pricing page) | 2026-10-14 |
 | [MongoDB Atlas](https://freetierfinder.com/tool/mongodb-atlas) | Free forever cluster with 512 MB storage, shared RAM and vCPU. | Not stated on pricing page | 2026-10-14 |
 | [Neon](https://freetierfinder.com/tool/neon) | 100 projects, 100 CU-hours a month per project, 1 GB storage per project, 5 GB object storage. | No (stated on pricing page) | 2026-10-14 |
 | [Pinecone](https://freetierfinder.com/tool/pinecone) | Starter plan with database, inference and assistant for small apps. | Not stated on pricing page | 2026-10-14 |
@@ -280,7 +280,7 @@ Verified free tiers, promos and startup credits for AI and developer tools. This
 | Tool | Free tier | Card required | Checked |
 | --- | --- | --- | --- |
 | [CapCut](https://freetierfinder.com/tool/capcut) | Online and desktop photo and video editor with AI tools. | No (stated on pricing page) | 2026-10-14 |
-| [Clipchamp](https://freetierfinder.com/tool/clipchamp) | Free video editor with AI editing, recorders, free stock assets and filters. | Not stated on pricing page | 2026-10-14 |
+| [Clipchamp](https://freetierfinder.com/tool/clipchamp) | Free video editor with AI editing, recorders, free stock assets and filters. | No (stated on pricing page) | 2026-10-14 |
 | [Descript](https://freetierfinder.com/tool/descript) | 60 media minutes a month with transcription in 25 languages and text-based editing. | Not stated on pricing page | 2026-10-14 |
 | [Kapwing](https://freetierfinder.com/tool/kapwing) | 10 credits, unlimited exports up to 4 minutes at 720p, 5 GB storage. | Not stated on pricing page | 2026-10-14 |
 
