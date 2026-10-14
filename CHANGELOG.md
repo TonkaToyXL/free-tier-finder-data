@@ -30,3 +30,4 @@ Entry-level changes recorded at each recheck. Newest first.
 - vercel-ai-gateway: Oct 14, 2026: Added promo. Nemotron 3.5 Lightning free on Vercel AI Gateway.
 - opencode: Oct 14, 2026: Added promo. Free models on OpenCode Console for a limited time.
 - google-ai-pro-via-jio: Oct 14, 2026: Added promo. Up to 18 months of Google AI Pro free for Jio users in India.
+- runway: Oct 14, 2026: Card policy updated: the official pricing page now states "Get started free, no credit card required".

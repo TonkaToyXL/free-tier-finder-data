@@ -138,7 +138,7 @@ Verified free tiers, promos and startup credits for AI and developer tools. This
 | [HeyGen](https://freetierfinder.com/tool/heygen) | 3 videos a month up to 1 minute each, Avatar IV, 500+ stock avatars, 1 custom avatar. | No (stated on pricing page) | 2026-10-14 |
 | [Luma Dream Machine](https://freetierfinder.com/tool/luma-dream-machine) | Not stated by vendor | Not stated on pricing page | 2026-10-14 |
 | [Pika](https://freetierfinder.com/tool/pika) | All models, no watermark; generation is via credit packs only. | Not stated on pricing page | 2026-10-14 |
-| [Runway](https://freetierfinder.com/tool/runway) | 125 one-time credits, a selection of generative models, 5 GB asset storage. | Not stated on pricing page | 2026-10-14 |
+| [Runway](https://freetierfinder.com/tool/runway) | 125 one-time credits, a selection of generative models, 5 GB asset storage. | No (stated on pricing page) | 2026-10-14 |
 
 ### Analytics
 
