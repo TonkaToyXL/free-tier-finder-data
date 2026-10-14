@@ -76,10 +76,6 @@
     "reason": "blocked/empty"
   },
   {
-    "name": "Fireflies.ai",
-    "reason": "missing:800"
-  },
-  {
     "name": "Claude for Startups (Anthropic)",
     "reason": "removed 2026-10-14: no longer active - claude.com/programs/startups says the cohort is full and new applications are not being accepted"
   }

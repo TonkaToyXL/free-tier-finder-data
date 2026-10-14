@@ -2,7 +2,7 @@
 
 Verified free tiers, promos and startup credits for AI and developer tools. This is the source data for [freetierfinder.com](https://freetierfinder.com).
 
-![Last checked](https://img.shields.io/badge/last%20checked-2026--10--14-blue) ![Tools](https://img.shields.io/badge/tools-134-informational) ![Promos](https://img.shields.io/badge/promos-23-informational) ![License: CC BY 4.0](https://img.shields.io/badge/data%20license-CC%20BY%204.0-lightgrey)
+![Last checked](https://img.shields.io/badge/last%20checked-2026--10--14-blue) ![Tools](https://img.shields.io/badge/tools-135-informational) ![Promos](https://img.shields.io/badge/promos-23-informational) ![License: CC BY 4.0](https://img.shields.io/badge/data%20license-CC%20BY%204.0-lightgrey)
 
 - Site: https://freetierfinder.com
 - Machine-readable summary: https://freetierfinder.com/llms.txt
@@ -11,7 +11,7 @@ Verified free tiers, promos and startup credits for AI and developer tools. This
 
 | File | Contents |
 | --- | --- |
-| `data/tools.json`, `data/tools.csv` | 134 tools with active free tiers |
+| `data/tools.json`, `data/tools.csv` | 135 tools with active free tiers |
 | `data/promos.json`, `data/promos.csv` | 23 promos, credits and startup programs |
 | `data/dropped.json` | Entries removed after their free tier ended or could not be confirmed |
 | `scripts/export.py` | Regenerates the data files, this README and the changelog |
@@ -248,6 +248,7 @@ Verified free tiers, promos and startup credits for AI and developer tools. This
 | [Asana](https://freetierfinder.com/tool/asana) | Unlimited tasks and projects with list, board and calendar views. | Not stated on pricing page | 2026-10-14 |
 | [Cal.com](https://freetierfinder.com/tool/cal-com) | 1 user, unlimited event types and calendars, email and SMS notifications, 100+ integrations. | Not stated on pricing page | 2026-10-14 |
 | [Calendly](https://freetierfinder.com/tool/calendly) | One event type, one calendar connection, one-on-one scheduling, booking page. | Not stated on pricing page | 2026-10-14 |
+| [Fireflies.ai](https://freetierfinder.com/tool/fireflies-ai) | Unlimited transcription in 100+ languages, real-time notes and live transcriptions, meeting search, limited AI summaries and 20 AI credits; works with Zoom, Google Meet and Teams. | Not stated on pricing page | 2026-10-14 |
 | [Linear](https://freetierfinder.com/tool/linear) | Unlimited members, 2 teams, 250 issues, Linear Agent. | Not stated on pricing page | 2026-10-14 |
 | [Miro](https://freetierfinder.com/tool/miro) | 3 editable boards and 7,000+ templates. | Not stated on pricing page | 2026-10-14 |
 | [Notion](https://freetierfinder.com/tool/notion) | Personal workspace with forms, sites, Notion Calendar and a trial of Notion AI. | Not stated on pricing page | 2026-10-14 |

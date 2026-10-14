@@ -4,7 +4,7 @@ Entry-level changes recorded at each recheck. Newest first.
 
 ## 2026-10-14
 
-- Dataset published: 134 tools, 23 promos, 21 retired entries.
+- Dataset published: 135 tools, 23 promos, 20 retired entries.
 
 ### Entry updates
 
@@ -31,3 +31,8 @@ Entry-level changes recorded at each recheck. Newest first.
 - opencode: Oct 14, 2026: Added promo. Free models on OpenCode Console for a limited time.
 - google-ai-pro-via-jio: Oct 14, 2026: Added promo. Up to 18 months of Google AI Pro free for Jio users in India.
 - runway: Oct 14, 2026: Card policy updated: the official pricing page now states "Get started free, no credit card required".
+- windsurf: Oct 14, 2026: windsurf.com/pricing now redirects to devin.ai/pricing; source updated. Free plan unchanged (light agent quota, unlimited Tab).
+- hotjar: Oct 14, 2026: Hotjar pricing now lives on contentsquare.com/pricing; source updated. Free plan unchanged (200k sessions, 1 project, 1 month data).
+- roomote: Oct 14, 2026: Pricing now on roomote.dev; source updated. Self-hosted stays free under 10 users.
+- playground: Oct 14, 2026: Pricing moved to playgroundai.com/design/pricing; source updated. Free plan unchanged.
+- fireflies-ai: Oct 14, 2026: Added. Free plan confirmed on fireflies.ai/pricing: unlimited transcription, limited AI summaries, 400 mins storage/team. Affiliate link added.

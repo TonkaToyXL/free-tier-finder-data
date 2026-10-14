@@ -127,7 +127,7 @@
     "requirements": "Your own model API key, or OpenHands models at cost.",
     "catch": "You pay for model usage (your key or at-cost).",
     "no_card_status": "Not stated on pricing page",
-    "official_source_url": "https://www.all-hands.dev/pricing",
+    "official_source_url": "https://www.openhands.dev/pricing",
     "date_checked": "2026-10-14",
     "page_url": "https://freetierfinder.com/tool/openhands"
   },
@@ -151,7 +151,7 @@
     "requirements": "Your own hosting, sandboxes and an inference key.",
     "catch": "You run and pay for hosting and inference; the hosted Cloud version is a 7-day trial only.",
     "no_card_status": "Not stated on pricing page",
-    "official_source_url": "https://roocode.com/pricing",
+    "official_source_url": "https://roomote.dev/",
     "date_checked": "2026-10-14",
     "page_url": "https://freetierfinder.com/tool/roomote"
   },
@@ -187,7 +187,7 @@
     "requirements": "A Google account.",
     "catch": "Free-tier content is used to improve Google products; newest models such as Gemini 4 Argon are not available.",
     "no_card_status": "Not stated on pricing page",
-    "official_source_url": "https://ai.google.dev/pricing",
+    "official_source_url": "https://ai.google.dev/gemini-api/docs/pricing",
     "date_checked": "2026-10-14",
     "page_url": "https://freetierfinder.com/tool/google-ai-studio"
   },
@@ -475,7 +475,7 @@
     "requirements": "Not stated by vendor",
     "catch": "Quota is described only as light; frontier models need Pro.",
     "no_card_status": "Not stated on pricing page",
-    "official_source_url": "https://windsurf.com/pricing",
+    "official_source_url": "https://devin.ai/pricing",
     "date_checked": "2026-10-14",
     "page_url": "https://freetierfinder.com/tool/windsurf"
   },
@@ -535,7 +535,7 @@
     "requirements": "Not stated by vendor",
     "catch": "Slower generation at peak hours and a waiting period after limits are reached.",
     "no_card_status": "Not stated on pricing page",
-    "official_source_url": "https://playground.com/pricing",
+    "official_source_url": "https://playgroundai.com/design/pricing",
     "date_checked": "2026-10-14",
     "page_url": "https://freetierfinder.com/tool/playground"
   },
@@ -643,7 +643,7 @@
     "requirements": "Not stated by vendor",
     "catch": "Credits are one-time and do not renew.",
     "no_card_status": "No (stated on pricing page)",
-    "official_source_url": "https://runwayml.com/pricing",
+    "official_source_url": "https://runway.com/pricing",
     "date_checked": "2026-10-14",
     "page_url": "https://freetierfinder.com/tool/runway"
   },
@@ -667,7 +667,7 @@
     "requirements": "Not stated by vendor",
     "catch": "Only 1 month of data access.",
     "no_card_status": "Not stated on pricing page",
-    "official_source_url": "https://www.hotjar.com/pricing/",
+    "official_source_url": "https://contentsquare.com/pricing/",
     "date_checked": "2026-10-14",
     "page_url": "https://freetierfinder.com/tool/hotjar"
   },
@@ -1294,6 +1294,18 @@
     "official_source_url": "https://calendly.com/pricing",
     "date_checked": "2026-10-14",
     "page_url": "https://freetierfinder.com/tool/calendly"
+  },
+  {
+    "name": "Fireflies.ai",
+    "category": "Productivity",
+    "what_you_get": "Unlimited transcription in 100+ languages, real-time notes and live transcriptions, meeting search, limited AI summaries and 20 AI credits; works with Zoom, Google Meet and Teams.",
+    "how_to_get_it": "Get started free at fireflies.ai.",
+    "requirements": "Not stated by vendor",
+    "catch": "Storage is capped at 400 minutes per team and AI summaries are limited; video recording and downloads need a paid plan.",
+    "no_card_status": "Not stated on pricing page",
+    "official_source_url": "https://fireflies.ai/pricing",
+    "date_checked": "2026-10-14",
+    "page_url": "https://freetierfinder.com/tool/fireflies-ai"
   },
   {
     "name": "Linear",
