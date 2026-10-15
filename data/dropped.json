@@ -78,5 +78,9 @@
   {
     "name": "Claude for Startups (Anthropic)",
     "reason": "removed 2026-10-14: no longer active - claude.com/programs/startups says the cohort is full and new applications are not being accepted"
+  },
+  {
+    "name": "WordPress.com",
+    "reason": "removed 2026-10-15: official pricing and feature pages returned 403 for two consecutive daily rechecks (2026-10-14-full and 2026-10-15); could not verify from another official wordpress.com page"
   }
 ]

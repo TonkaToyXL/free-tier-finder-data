@@ -2,9 +2,9 @@
 
 Entry-level changes recorded at each recheck. Newest first.
 
-## 2026-10-14
+## 2026-10-15
 
-- Dataset published: 135 tools, 23 promos, 20 retired entries.
+- Dataset published: 141 tools, 24 promos, 21 retired entries.
 
 ### Entry updates
 
@@ -30,9 +30,21 @@ Entry-level changes recorded at each recheck. Newest first.
 - vercel-ai-gateway: Oct 14, 2026: Added promo. Nemotron 3.5 Lightning free on Vercel AI Gateway.
 - opencode: Oct 14, 2026: Added promo. Free models on OpenCode Console for a limited time.
 - google-ai-pro-via-jio: Oct 14, 2026: Added promo. Up to 18 months of Google AI Pro free for Jio users in India.
-- runway: Oct 14, 2026: Card policy updated: the official pricing page now states "Get started free, no credit card required".
+- runway: Oct 15, 2026: Card policy corrected: "no credit card required" appears only in ads/API page data, not on the Free plan card; set back to Not stated.
 - windsurf: Oct 14, 2026: windsurf.com/pricing now redirects to devin.ai/pricing; source updated. Free plan unchanged (light agent quota, unlimited Tab).
 - hotjar: Oct 14, 2026: Hotjar pricing now lives on contentsquare.com/pricing; source updated. Free plan unchanged (200k sessions, 1 project, 1 month data).
 - roomote: Oct 14, 2026: Pricing now on roomote.dev; source updated. Self-hosted stays free under 10 users.
 - playground: Oct 14, 2026: Pricing moved to playgroundai.com/design/pricing; source updated. Free plan unchanged.
 - fireflies-ai: Oct 14, 2026: Added. Free plan confirmed on fireflies.ai/pricing: unlimited transcription, limited AI summaries, 400 mins storage/team. Affiliate link added.
+- airtable: Oct 15, 2026: Free plan details filled in: 500 AI credits per editor/month, up to 5 editors, 1 GB attachments and 100 automation runs (still 1,000 records per base).
+- asana: Oct 15, 2026: Personal free plan is for 2 users (was listed as 10); unlimited tasks and projects with list, board and calendar views confirmed.
+- assemblyai: Oct 15, 2026: Free tier now stated as up to 185 hours of pre-recorded and 333 hours of streaming transcription (no credit card); the old $50 credit grant is no longer on the pricing page.
+- canva: Oct 15, 2026: Free plan details filled in from canva.com/pricing: 1.6M+ templates, 5 GB storage and up to 20 Standard or Premium AI uses.
+- mistral-studio: Oct 15, 2026: Renamed from Mistral La Plateforme to Mistral Studio to match mistral.ai/pricing; Free plan includes Studio access (API limits not published).
+- speechmatics: Oct 15, 2026: Added. $100 in free speech-to-text credits on signup; no card required.
+- modal: Oct 15, 2026: Added. Starter plan: $0 + compute with $30 in free credits every month.
+- gladia: Oct 15, 2026: Added. 50€ in free speech-to-text API credits for new accounts.
+- voyage-ai: Oct 15, 2026: Added. First 200M tokens free per account on current Voyage embedding and rerank models.
+- poolside: Oct 15, 2026: Added. Free developer API key for the Laguna coding models via Poolside Platform.
+- sarashina: Oct 15, 2026: Added. Free beta (launched Oct 13) with API access to six Sarashina3 models and web chat.
+- twelvelabs: Oct 15, 2026: Added. Free plan with 3 GB storage and a basic monthly workload allowance.

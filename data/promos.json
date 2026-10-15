@@ -8,7 +8,7 @@
     "catch": "Approval needed; amount depends on stage.",
     "no_card_status": "Not stated by vendor",
     "official_source_url": "https://aws.amazon.com/startups/credits",
-    "date_checked": "2026-10-14",
+    "date_checked": "2026-10-15",
     "page_url": "https://freetierfinder.com/promo/aws-activate",
     "title": "Up to $200,000 in credits; the Founders tier is up to $5,000",
     "expires": "Ongoing program; terms can change"
@@ -22,7 +22,7 @@
     "catch": "Free plan is limited to select services and closes after 6 months or when credits run out unless you upgrade to Paid.",
     "no_card_status": "Not stated by vendor",
     "official_source_url": "https://aws.amazon.com/free/",
-    "date_checked": "2026-10-14",
+    "date_checked": "2026-10-15",
     "page_url": "https://freetierfinder.com/promo/aws-free-tier",
     "title": "Up to $200 in AWS credits for new accounts",
     "expires": "Credits usable up to 6 months after account creation"
@@ -134,7 +134,7 @@
     "catch": "India and Jio only, and the paid Jio plan is the price of entry. Gemini 4 Argon is not in AI Studio or the API on Pro.",
     "no_card_status": "Not stated by vendor",
     "official_source_url": "https://www.jio.com/google-gemini-offer/",
-    "date_checked": "2026-10-14",
+    "date_checked": "2026-10-15",
     "page_url": "https://freetierfinder.com/promo/google-ai-pro-via-jio",
     "title": "Up to 18 months of Google AI Pro free for Jio users in India",
     "expires": "No end date stated"
@@ -232,7 +232,7 @@
     "catch": "Marked limited time with no end date, and some free models use your data for training.",
     "no_card_status": "Not stated by vendor",
     "official_source_url": "https://opencode.ai/v2/docs/console/models/",
-    "date_checked": "2026-10-14",
+    "date_checked": "2026-10-15",
     "page_url": "https://freetierfinder.com/promo/opencode",
     "title": "Free models on OpenCode Console",
     "expires": "Limited time; no end date stated"
@@ -274,7 +274,7 @@
     "catch": "Credits are one-time and do not renew.",
     "no_card_status": "Not stated by vendor",
     "official_source_url": "https://runway.com/pricing",
-    "date_checked": "2026-10-14",
+    "date_checked": "2026-10-15",
     "page_url": "https://freetierfinder.com/promo/runway",
     "title": "125 one-time free credits for AI video",
     "expires": "No end date stated"
@@ -302,10 +302,24 @@
     "catch": "Runs on an NVIDIA trial endpoint where prompts are logged; do not send confidential data.",
     "no_card_status": "Not stated by vendor",
     "official_source_url": "https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free",
-    "date_checked": "2026-10-14",
+    "date_checked": "2026-10-15",
     "page_url": "https://freetierfinder.com/promo/vercel-ai-gateway",
     "title": "Free Nemotron 3.5 Lightning on AI Gateway",
     "expires": "No end date stated"
+  },
+  {
+    "name": "Vercel AI Gateway",
+    "category": "Limited-time free model",
+    "what_you_get": "$0 use of convaiinnovations/laya and convaiinnovations/laya-free (yes/no, choice and score questions) when served by Boundless.",
+    "how_to_get_it": "Call convaiinnovations/laya-free through AI Gateway with an AI Gateway API key.",
+    "requirements": "A Vercel account and AI Gateway API key.",
+    "catch": "Ends October 31, 2026: the -free ID stops serving and the standard ID starts billing. It is a decision model, not a chat model.",
+    "no_card_status": "Not stated by vendor",
+    "official_source_url": "https://vercel.com/changelog/laya-decision-model-now-available-on-ai-gateway-free-through-october-31",
+    "date_checked": "2026-10-15",
+    "page_url": "https://freetierfinder.com/promo/vercel-ai-gateway",
+    "title": "Laya decision model free through October 31",
+    "expires": "Oct 31, 2026"
   },
   {
     "name": "Vercel for Startups",
